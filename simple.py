@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Input: num1 = 5, num2 = 3
+Output: 9
+=======
+>>>>>>> origin
 # This function adds two numbers
 def add(x, y):
     return x + y
@@ -13,6 +20,10 @@ def multiply(x, y):
 # This function divides two numbers
 def divide(x, y):
     return x / y
+<<<<<<< HEAD
+=======
+>>>>>>> 6840d8c (a complet new 1)
+>>>>>>> origin
 
 
 print("Select operation.")
@@ -54,4 +65,7 @@ while True:
     else:
         print("Invalid Input")
 
+<<<<<<< HEAD
 we are make in changes
+=======
+>>>>>>> origin
