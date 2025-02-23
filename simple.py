@@ -64,8 +64,8 @@ while True:
           break
     else:
         print("Invalid Input")
-
-<<<<<<< HEAD
-we are make in changes
+        
+#we are make in changes
+              print ("valed id input")
 =======
->>>>>>> origin
+
